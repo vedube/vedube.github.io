@@ -1,6 +1,6 @@
 ---
 title: "Prediction machine learning comparison"
-excerpt: "Predict the average consistency of concrete"
+excerpt: "Predict the average consistency of concrete<br/><img src='/images/concrete-prediction.png'>"
 collection: portfolio
 ---
 

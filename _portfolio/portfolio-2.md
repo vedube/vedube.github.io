@@ -1,6 +1,6 @@
 ---
 title: "Causal Inference workgroups"
-excerpt: "5 workgroups in Python, R and Julia applying causal machine learning models"
+excerpt: "5 workgroups in Python, R and Julia applying causal machine learning models<br/><img src='/images/double-lasso.png'>"
 collection: portfolio
 ---
 
