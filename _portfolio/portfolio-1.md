@@ -1,6 +1,6 @@
 ---
 title: "Inflation forecast"
-excerpt: "Comparison between machine learning and econometrics models to forecast inflation<br/><img src='/images/inflation-prediction.png'>"
+excerpt: "Comparison between machine learning and econometrics models to forecast inflation<br/><img src='/images/inflation-prediction.png' width='500'>"
 collection: portfolio
 ---
 
