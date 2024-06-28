@@ -15,34 +15,34 @@ Education
 
 Work experience
 ======
-* 2023-Present: Research Assistant
-  * Universidad del Pacífico Research Center (CIUP)
+* Universidad del Pacífico Research Center (CIUP), 2023-Present
+  * Position: Research Assistant
+  * Supervisor: Francisco Galarza
   * Duties includes: 
       * Research and data collection on the effect of high school teachers’ perceptions on school performance using lab-in-the-field method
       * Research and write a review on corruption and bribery experiments in third-world countries
       * Management of the [Experimental Economics Laboratory of Universidad del Pacífico](https://e2lab.up.edu.pe)
-  * Supervisor: Francisco Galarza
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* APOYO Consultoría
+  * Position: Intern
+  * Duties included: 
+    * Researched and forecasted LATAM countries’ macroeconomic indicators
+    * Analyzed and interpreted databases of fiscal accounts and macroeconomic indicators
+    * Automated public expenditure data collection using Python (web scraping)
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Python, Julia, R, Stata, C, SQL, HTML, JavaScript, CSS
+* Machine Learning models: Lineal regression, Principal Components Regression, Ridge, Lasso, Classification, Regression Trees, Support Vector Machine, and Neural Networks
+* Software: Excel (Power Query, VBA, macros), Microsoft Office, oTree
 
-Publications
+Languages
+======
+* Spanish (native)
+* English (proficient)
+* French (reading and basic speaking competence)
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -62,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
