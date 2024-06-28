@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Economics, Universidad del Pacifico, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-Present: Research Assistant
+  * Universidad del Pacífico Research Center (CIUP)
+  * Duties includes: 
+      * Research and data collection on the effect of high school teachers’ perceptions on school performance using lab-in-the-field method
+      * Research and write a review on corruption and bribery experiments in third-world countries
+      * Management of the [Experimental Economics Laboratory of Universidad del Pacífico](https://e2lab.up.edu.pe)
+  * Supervisor: Francisco Galarza
 
 * Fall 2015: Research Assistant
   * Github University
